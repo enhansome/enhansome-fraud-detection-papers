@@ -1,0 +1,498 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph (AAAI 2024)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-03-26T11:52:01Z",
+                "owner": "GraphBerry",
+                "repo": "DiG-In-GNN",
+                "stars": 26
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LEX-GNN: Label-Exploring Graph Neural Network for Accurate Fraud Detection (CIKM 2024)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-12T10:10:56Z",
+                "owner": "wdhyun",
+                "repo": "LEX-GNN",
+                "stars": 6
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-08-29T09:16:43Z",
+                "owner": "aplaceof",
+                "repo": "FlowScope",
+                "stars": 29
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (CIKM 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-11T11:15:56Z",
+                "owner": "YingtongDou",
+                "repo": "CARE-GNN",
+                "stars": 316
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Error-Bounded Graph Anomaly Loss for GNNs (CIKM 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:36:47Z",
+                "owner": "zhao-tong",
+                "repo": "Graph-Anomaly-Loss",
+                "stars": 42
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BotSpot: A Hybrid Learning Framework to Uncover Bot Install Fraud in Mobile Advertising (CIKM 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-12-11T03:52:36Z",
+                "owner": "akakeigo2020",
+                "repo": "CIKM-Applied_Research-2150",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Robust Spammer Detection by Nash Reinforcement Learning (KDD 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-11-17T23:54:42Z",
+                "owner": "YingtongDou",
+                "repo": "Nash-Detect",
+                "stars": 120
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection (KDD 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2021-07-18T03:12:19Z",
+                "owner": "Roytsai27",
+                "repo": "Dual-Attentive-Tree-aware-Embedding",
+                "stars": 69
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection (SIGIR 2020)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-20T21:39:08Z",
+                "owner": "safe-graph",
+                "repo": "DGFraud",
+                "stars": 758
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs (DSAA 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:35:42Z",
+                "owner": "hamedn",
+                "repo": "SliceNDice",
+                "stars": 22
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-20T21:39:08Z",
+                "owner": "safe-graph",
+                "repo": "DGFraud",
+                "stars": 758
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GeniePath: Graph Neural Networks with Adaptive Receptive Paths (AAAI 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-20T21:39:08Z",
+                "owner": "safe-graph",
+                "repo": "DGFraud",
+                "stars": 758
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SAFE: A Neural Survival Analysis Model for Fraud Early Detection (AAAI 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-05-24T20:30:10Z",
+                "owner": "PanpanZheng",
+                "repo": "SAFE",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "One-Class Adversarial Nets for Fraud Detection (AAAI 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-09-12T21:54:28Z",
+                "owner": "ILoveAI2019",
+                "repo": "OCAN",
+                "stars": 24
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Spam Review Detection with Graph Convolutional Networks (CIKM 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-20T21:39:08Z",
+                "owner": "safe-graph",
+                "repo": "DGFraud",
+                "stars": 758
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-20T21:39:08Z",
+                "owner": "safe-graph",
+                "repo": "DGFraud",
+                "stars": 758
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CatchCore: Catching Hierarchical Dense Subtensor (ECML-PKDD 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-05-30T03:24:31Z",
+                "owner": "wenchieh",
+                "repo": "catchcore",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Spotting Collective Behaviour of Online Frauds in Customer Reviews (IJCAI 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-07-25T05:38:07Z",
+                "owner": "LCS2-IIITD",
+                "repo": "DeFrauder",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "A Semi-Supervised Graph Attentive Network for Fraud Detection (ICDM 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-20T21:39:08Z",
+                "owner": "safe-graph",
+                "repo": "DGFraud",
+                "stars": 758
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-20T21:39:08Z",
+                "owner": "safe-graph",
+                "repo": "DGFraud",
+                "stars": 758
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "ZooBP: Belief Propagation for Heterogeneous Networks (VLDB 2017)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-18T04:54:53Z",
+                "owner": "safe-graph",
+                "repo": "UGFraud",
+                "stars": 131
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "GANG: Detecting Fraudulent Users in Online Social Networks via Guilt-by-Association on Directed Graphs (ICDM 2017)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-04-18T04:54:53Z",
+                "owner": "safe-graph",
+                "repo": "UGFraud",
+                "stars": 131
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2017"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:05.952Z",
+    "original_repository": "benedekrozemberczki/awesome-fraud-detection-papers",
+    "original_repository_sha": "2d0ebae3d749db3343535ab953fa66949af8841f",
+    "enhanced_repository": "enhansome/enhansome-fraud-detection-papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Fraud Detection Research Papers. with stars"
+  }
+}
