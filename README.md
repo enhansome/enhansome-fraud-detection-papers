@@ -1,8 +1,8 @@
 # Awesome Fraud Detection Research Papers. with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,148 | 🐛 100 | 📅 2026-06-30
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-fraud-detection-papers.svg)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/archive/master.zip) ⭐ 1,823 | 🐛 2 | 🌐 Python | 📅 2026-01-05
+[![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-fraud-detection-papers.svg)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/archive/master.zip) ⭐ 1,822 | 🐛 2 | 🌐 Python | 📅 2026-01-05
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-fraud-detection-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
 
 <p align="center">
@@ -903,7 +903,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 **License**
 
-* [CC0 Universal](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/LICENSE) ⭐ 1,823 | 🐛 2 | 🌐 Python | 📅 2026-01-05
+* [CC0 Universal](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/blob/master/LICENSE) ⭐ 1,822 | 🐛 2 | 🌐 Python | 📅 2026-01-05
 
 ***
 
