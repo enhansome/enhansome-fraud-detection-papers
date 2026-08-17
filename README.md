@@ -1,6 +1,6 @@
 # Awesome Fraud Detection Research Papers. with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,260 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,716 | 🐛 100 | 📅 2026-06-30
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-fraud-detection-papers.svg)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/archive/master.zip) ⭐ 1,823 | 🐛 2 | 🌐 Python | 📅 2026-01-05
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-fraud-detection-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -569,7 +569,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2017
 
 * **ZooBP: Belief Propagation for Heterogeneous Networks (VLDB 2017)**
-  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 131 | 🐛 3 | 🌐 Python | 📅 2022-04-18
+  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
   * Dhivya Eswaran, Stephan Gunnemann, Christos Faloutsos, Disha Makhija, Mohit Kumar
   * [\[Paper\]](http://www.vldb.org/pvldb/vol10/p625-eswaran.pdf)
 
@@ -598,7 +598,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://arxiv.org/abs/1709.04129)
 
 * **GANG: Detecting Fraudulent Users in Online Social Networks via Guilt-by-Association on Directed Graphs (ICDM 2017)**
-  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 131 | 🐛 3 | 🌐 Python | 📅 2022-04-18
+  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
   * Binghui Wang, Neil Zhenqiang Gong, Hao Fu
   * [\[Paper\]](https://ieeexplore.ieee.org/document/8215519)
 
@@ -635,7 +635,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 * **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage (KDD 2016)**
   * Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, Christos Faloutsos
   * [\[Paper\]](https://www.andrew.cmu.edu/user/bhooi/papers/fraudar_kdd16.pdf)
-  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 131 | 🐛 3 | 🌐 Python | 📅 2022-04-18
+  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
 
 * **Identifying Anomalies in Graph Streams Using Change Detection (KDD 2016)**
   * William Eberle and Lawrence Holde
@@ -682,7 +682,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 * **Collective Opinion Spam Detection: Bridging Review Networks and Metadata (KDD 2015)**
   * Shebuti Rayana, Leman Akoglu
   * [\[Paper\]](https://www.andrew.cmu.edu/user/lakoglu/pubs/15-kdd-collectiveopinionspam.pdf)
-  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 131 | 🐛 3 | 🌐 Python | 📅 2022-04-18
+  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
 
 * **Graph-Based User Behavior Modeling: From Prediction to Fraud Detection (KDD 2015)**
   * Alex Beutel, Leman Akoglu, Christos Faloutsos
@@ -705,7 +705,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 * **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective (ICDM 2014)**
   * Neil Shah, Alex Beutel, Brian Gallagher, Christos Faloutsos
   * [\[Paper\]](https://arxiv.org/pdf/1410.3915.pdf)
-  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 131 | 🐛 3 | 🌐 Python | 📅 2022-04-18
+  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
 
 * **Fraudulent Support Telephone Number Identification Based on Co-Occurrence Information on the Web (AAAI 2014)**
   * Xin Li, Yiqun Liu, Min Zhang, Shaoping Ma
@@ -907,4 +907,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
