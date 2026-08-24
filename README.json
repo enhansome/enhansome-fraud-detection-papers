@@ -55,6 +55,62 @@
       "items": [
         {
           "node_type": "group",
+          "title": "Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI 2023)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617462130,
+                "language": "Python",
+                "last_commit": "2025-06-05T07:04:24Z",
+                "owner": "AI4Risk",
+                "repo": "antifraud",
+                "stars": 340
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Active Learning for Human-in-the-loop Customs Inspection (TKDE 2022)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279493312,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-19T01:24:47Z",
+                "owner": "Seondong",
+                "repo": "Customs-Fraud-Detection",
+                "stars": 32
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
           "title": "FlowScope: Spotting Money Laundering Based on Graphs (AAAI 2020)",
           "description": null,
           "children": [
@@ -507,10 +563,115 @@
         }
       ],
       "title": "2017"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "FRAUDAR: Bounding Graph Fraud in the Face of Camouflage (KDD 2016)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268647110,
+                "language": "Python",
+                "last_commit": "2022-04-18T04:54:53Z",
+                "owner": "safe-graph",
+                "repo": "UGFraud",
+                "stars": 132
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2016"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Collective Opinion Spam Detection: Bridging Review Networks and Metadata (KDD 2015)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268647110,
+                "language": "Python",
+                "last_commit": "2022-04-18T04:54:53Z",
+                "owner": "safe-graph",
+                "repo": "UGFraud",
+                "stars": 132
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2015"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective (ICDM 2014)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268647110,
+                "language": "Python",
+                "last_commit": "2022-04-18T04:54:53Z",
+                "owner": "safe-graph",
+                "repo": "UGFraud",
+                "stars": 132
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2014"
+    },
+    {
+      "description": "License",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CC0 Universal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188821801,
+            "language": "Python",
+            "last_commit": "2026-01-05T12:28:59Z",
+            "owner": "benedekrozemberczki",
+            "repo": "awesome-fraud-detection-papers",
+            "stars": 1827
+          }
+        }
+      ],
+      "title": "1995"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:24:39.184Z",
+    "last_updated": "2026-08-24T14:08:19.117Z",
     "original_repository": "benedekrozemberczki/awesome-fraud-detection-papers",
     "original_repository_id": 188821801,
     "original_repository_sha": "2d0ebae3d749db3343535ab953fa66949af8841f",

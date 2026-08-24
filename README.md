@@ -1,6 +1,6 @@
 # Awesome Fraud Detection Research Papers. with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,403 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,510 | 🐛 106 | 📅 2026-08-21
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-fraud-detection-papers.svg)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/archive/master.zip) ⭐ 1,827 | 🐛 2 | 🌐 Python | 📅 2026-01-05
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-fraud-detection-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -195,9 +195,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://doi.org/10.1109/TKDE.2023.3272396)
 
 * **Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI 2023)**
+  * [\[Code\]](https://github.com/finint/antifraud) ⭐ 340 | 🐛 2 | 🌐 Python | 📅 2025-06-05
   * Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
   * [\[Paper\]](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf)
-  * [\[Code\]](https://github.com/finint/antifraud) ⭐ 340 | 🐛 2 | 🌐 Python | 📅 2025-06-05
 
 * **A Framework for Detecting Frauds from Extremely Few Labels (WSDM 2023)**
   * Ya-Lin Zhang, Yi-Xuan Sun, Fangfang Fan, Meng Li, Yeyu Zhao, Wei Wang, Longfei Li, Jun Zhou, Jinghua Feng
@@ -258,9 +258,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://dl.acm.org/doi/10.1145/3485447.3512195)
 
 * **Active Learning for Human-in-the-loop Customs Inspection (TKDE 2022)**
+  * [\[Code\]](https://github.com/Seondong/Customs-Fraud-Detection) ⭐ 32 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-19
   * Sundong Kim, Tung-Duong Mai, Thi Nguyen Duc Khanh, Sungwon Han, Sungwon Park, Karandeep Singh, Meeyoung Cha
   * [\[Paper\]](https://ieeexplore.ieee.org/document/9695316/)
-  * [\[Code\]](https://github.com/Seondong/Customs-Fraud-Detection) ⭐ 32 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-19
 
 * **Knowledge Sharing via Domain Adaptation in Customs Fraud Detection (AAAI 2022)**
   * Sungwon Park, Sundong Kim, Meeyoung Cha
@@ -633,9 +633,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](http://www.oliviercaelen.be/doc/IEAAIE_2017_Finalversion-PDF_39.pdf)
 
 * **FRAUDAR: Bounding Graph Fraud in the Face of Camouflage (KDD 2016)**
+  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
   * Bryan Hooi, Hyun Ah Song, Alex Beutel, Neil Shah, Kijung Shin, Christos Faloutsos
   * [\[Paper\]](https://www.andrew.cmu.edu/user/bhooi/papers/fraudar_kdd16.pdf)
-  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
 
 * **Identifying Anomalies in Graph Streams Using Change Detection (KDD 2016)**
   * William Eberle and Lawrence Holde
@@ -680,9 +680,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://www.ijcai.org/Proceedings/15/Papers/341.pdf)
 
 * **Collective Opinion Spam Detection: Bridging Review Networks and Metadata (KDD 2015)**
+  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
   * Shebuti Rayana, Leman Akoglu
   * [\[Paper\]](https://www.andrew.cmu.edu/user/lakoglu/pubs/15-kdd-collectiveopinionspam.pdf)
-  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
 
 * **Graph-Based User Behavior Modeling: From Prediction to Fraud Detection (KDD 2015)**
   * Alex Beutel, Leman Akoglu, Christos Faloutsos
@@ -703,9 +703,9 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 ## 2014
 
 * **Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective (ICDM 2014)**
+  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
   * Neil Shah, Alex Beutel, Brian Gallagher, Christos Faloutsos
   * [\[Paper\]](https://arxiv.org/pdf/1410.3915.pdf)
-  * [\[Code\]](https://github.com/safe-graph/UGFraud) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-04-18
 
 * **Fraudulent Support Telephone Number Identification Based on Co-Occurrence Information on the Web (AAAI 2014)**
   * Xin Li, Yiqun Liu, Min Zhang, Shaoping Ma
