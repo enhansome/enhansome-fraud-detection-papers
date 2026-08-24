@@ -1,6 +1,6 @@
 # Awesome Fraud Detection Research Papers. with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,063 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,403 | 🐛 106 | 📅 2026-08-21
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-fraud-detection-papers.svg)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/archive/master.zip) ⭐ 1,827 | 🐛 2 | 🌐 Python | 📅 2026-01-05
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-fraud-detection-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -32,7 +32,7 @@ A curated list of fraud detection papers from the following conferences:
 * Databases
   * [VLDB](http://www.vldb.org/)
 
-Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,799 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,473 | 🐛 3 | 🌐 Python | 📅 2025-12-28, [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,049 | 🐛 3 | 🌐 Python | 📅 2026-01-05, [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 714 | 🐛 0 | 🌐 Python | 📅 2026-01-13, and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,450 | 🐛 0 | 🌐 Python | 📅 2025-12-20 papers with implementations.
+Similar collections about [graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) ⭐ 4,798 | 🐛 0 | 🌐 Python | 📅 2023-03-18, [classification/regression tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,473 | 🐛 3 | 🌐 Python | 📅 2025-12-28, [gradient boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) ⭐ 1,049 | 🐛 3 | 🌐 Python | 📅 2026-01-05, [Monte Carlo tree search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 714 | 🐛 0 | 🌐 Python | 📅 2026-01-13, and [community detection](https://github.com/benedekrozemberczki/awesome-community-detection) ⭐ 2,450 | 🐛 0 | 🌐 Python | 📅 2025-12-20 papers with implementations.
 
 ## 2025
 
@@ -397,7 +397,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://arxiv.org/abs/2005.10150)
 
 * **Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection (SIGIR 2020)**
-  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 756 | 🐛 1 | 🌐 Python | 📅 2022-04-20
+  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 757 | 🐛 1 | 🌐 Python | 📅 2022-04-20
   * Zhiwei Liu, Yingtong Dou, Philip S. Yu, Yutong Deng, Hao Peng
   * [\[Paper\]](https://arxiv.org/abs/2005.00625)
 
@@ -429,12 +429,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](http://nshah.net/publications/FARE.DSAA.19.pdf)
 
 * **Cash-Out User Detection Based on Attributed Heterogeneous Information Network with a Hierarchical Attention Mechanism (AAAI 2019)**
-  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 756 | 🐛 1 | 🌐 Python | 📅 2022-04-20
+  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 757 | 🐛 1 | 🌐 Python | 📅 2022-04-20
   * Binbin Hu, Zhiqiang Zhang, Chuan Shi, Jun Zhou, Xiaolong Li, Yuan Qi
   * [\[Paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/3884)
 
 * **GeniePath: Graph Neural Networks with Adaptive Receptive Paths (AAAI 2019)**
-  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 756 | 🐛 1 | 🌐 Python | 📅 2022-04-20
+  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 757 | 🐛 1 | 🌐 Python | 📅 2022-04-20
   * Ziqi Liu, Chaochao Chen, Longfei Li, Jun Zhou, Xiaolong Li, Le Song, Yuan Qi
   * [\[Paper\]](https://arxiv.org/abs/1802.00910)
 
@@ -453,12 +453,12 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://arxiv.org/pdf/1907.03048.pdf)
 
 * **Spam Review Detection with Graph Convolutional Networks (CIKM 2019)**
-  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 756 | 🐛 1 | 🌐 Python | 📅 2022-04-20
+  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 757 | 🐛 1 | 🌐 Python | 📅 2022-04-20
   * Ao Li, Zhou Qin, Runshi Liu, Yiqun Yang, Dong Li
   * [\[Paper\]](https://arxiv.org/abs/1908.10679)
 
 * **Key Player Identification in Underground Forums Over Attributed Heterogeneous Information Network Embedding Framework (CIKM 2019)**
-  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 756 | 🐛 1 | 🌐 Python | 📅 2022-04-20
+  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 757 | 🐛 1 | 🌐 Python | 📅 2022-04-20
   * Yiming Zhang, Yujie Fan, Yanfang Ye, Liang Zhao, Chuan Shi
   * [\[Paper\]](http://mason.gmu.edu/~lzhao9/materials/papers/lp0110-zhangA.pdf)
 
@@ -473,7 +473,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://arxiv.org/abs/1905.13649)
 
 * **A Semi-Supervised Graph Attentive Network for Fraud Detection (ICDM 2019)**
-  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 756 | 🐛 1 | 🌐 Python | 📅 2022-04-20
+  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 757 | 🐛 1 | 🌐 Python | 📅 2022-04-20
   * Daixin Wang, Jianbin Lin, Peng Cui, Quanhui Jia, Zhen Wang, Yanming Fang, Quan Yu, Jun Zhou, Shuang Yang, and Qi Yuan
   * [\[Paper\]](https://arxiv.org/abs/2003.01171)
 
@@ -502,7 +502,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://arxiv.org/pdf/1810.06230.pdf)
 
 * **FdGars: Fraudster Detection via Graph Convolutional Networks in Online App Review System (WWW 2019)**
-  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 756 | 🐛 1 | 🌐 Python | 📅 2022-04-20
+  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 757 | 🐛 1 | 🌐 Python | 📅 2022-04-20
   * Rui Wen, Jianyu Wang and Yu Huang
   * [\[Paper\]](https://dl.acm.org/citation.cfm?id=3316586)
 
@@ -511,7 +511,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 * **Heterogeneous Graph Neural Networks for Malicious Account Detection (CIKM 2018)**
   * Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, and Le Song
   * [\[Paper\]](https://dl.acm.org/doi/10.1145/3269206.3272010)
-  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 756 | 🐛 1 | 🌐 Python | 📅 2022-04-20
+  * [\[Code\]](https://github.com/safe-graph/DGFraud) ⭐ 757 | 🐛 1 | 🌐 Python | 📅 2022-04-20
 
 * **Reinforcement Mechanism Design for Fraudulent Behaviour in e-Commerce (AAAI 2018)**
   * Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang
@@ -907,4 +907,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
