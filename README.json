@@ -70,7 +70,7 @@
                 "last_commit": "2025-06-05T07:04:24Z",
                 "owner": "AI4Risk",
                 "repo": "antifraud",
-                "stars": 340
+                "stars": 341
               }
             }
           ]
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:21:34.240Z",
+    "last_updated": "2026-08-26T08:22:32.886Z",
     "original_repository": "benedekrozemberczki/awesome-fraud-detection-papers",
     "original_repository_id": 188821801,
     "original_repository_sha": "2d0ebae3d749db3343535ab953fa66949af8841f",
