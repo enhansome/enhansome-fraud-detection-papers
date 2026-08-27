@@ -671,9 +671,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:22:32.886Z",
-    "original_repository": "benedekrozemberczki/awesome-fraud-detection-papers",
-    "original_repository_id": 188821801,
+    "last_updated": "2026-08-27T11:41:00.390Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 188821801,
+      "language": "Python",
+      "last_commit": "2026-01-05T12:28:59Z",
+      "owner": "benedekrozemberczki",
+      "repo": "awesome-fraud-detection-papers",
+      "stars": 1827
+    },
     "original_repository_sha": "2d0ebae3d749db3343535ab953fa66949af8841f",
     "enhanced_repository": "enhansome/enhansome-fraud-detection-papers",
     "enhanced_repository_description": null,
