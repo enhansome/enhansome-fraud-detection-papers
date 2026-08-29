@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of DiG-In-GNN (AAAI 2024)",
+                "homepage": null,
                 "id": 730681785,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-26T11:52:01Z",
+                "open_issues": 2,
                 "owner": "GraphBerry",
                 "repo": "DiG-In-GNN",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -38,12 +43,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 876604035,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-12T10:10:56Z",
+                "open_issues": 0,
                 "owner": "wdhyun",
                 "repo": "LEX-GNN",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -67,12 +77,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository for financial fraud detection",
+                "homepage": null,
                 "id": 617462130,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-05T07:04:24Z",
+                "open_issues": 2,
                 "owner": "AI4Risk",
                 "repo": "antifraud",
-                "stars": 341
+                "stars": 341,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -96,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simulation framework for customs fraud detection using import declarations.",
+                "homepage": null,
                 "id": 279493312,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-03-19T01:24:47Z",
+                "open_issues": 1,
                 "owner": "Seondong",
                 "repo": "Customs-Fraud-Detection",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -125,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 303162743,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-29T09:16:43Z",
+                "open_issues": 1,
                 "owner": "aplaceof",
                 "repo": "FlowScope",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -148,12 +173,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for CIKM 2020 paper Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters",
+                "homepage": "https://arxiv.org/abs/2008.08692",
                 "id": 285392640,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-11T11:15:56Z",
+                "open_issues": 1,
                 "owner": "YingtongDou",
                 "repo": "CARE-GNN",
-                "stars": 316
+                "stars": 316,
+                "topics": [
+                  "datamining",
+                  "deep-learning",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graphneuralnetwork",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -171,12 +210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TNNLS: A Synergistic Approach for Graph Anomaly Detection with Pattern Mining and Feature Learning; CIKM'20: Error-bounded Graph Anomaly Loss for GNNs.",
+                "homepage": null,
                 "id": 282112752,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:36:47Z",
+                "open_issues": 4,
                 "owner": "zhao-tong",
                 "repo": "Graph-Anomaly-Loss",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -194,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains code and dataset links for CIKM-2150: BotSpot:A Hybrid Learning Framework to Uncover Bot Install Fraud in Mobile Advertising",
+                "homepage": null,
                 "id": 270500620,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-12-11T03:52:36Z",
+                "open_issues": 0,
                 "owner": "akakeigo2020",
                 "repo": "CIKM-Applied_Research-2150",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -217,12 +266,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for KDD 2020 paper Robust Spammer Detection by Nash Reinforcement Learning",
+                "homepage": "http://arxiv.org/abs/2006.06069",
                 "id": 266555315,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-17T23:54:42Z",
+                "open_issues": 0,
                 "owner": "YingtongDou",
                 "repo": "Nash-Detect",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "fraud-detection",
+                  "game-theory",
+                  "machine-learning",
+                  "reinforcement-learning",
+                  "security",
+                  "spam-detection"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -240,12 +301,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DATE: Dual Attentive Tree-aware Embedding for Customs Frauds Detection",
+                "homepage": null,
                 "id": 239415853,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-18T03:12:19Z",
+                "open_issues": 0,
                 "owner": "Roytsai27",
                 "repo": "Dual-Attentive-Tree-aware-Embedding",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -263,12 +329,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Deep Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 223415751,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-20T21:39:08Z",
+                "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "anomaly-detection",
+                  "datamining",
+                  "datascience",
+                  "dblp-dataset",
+                  "financial-engineering",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "graphneuralnetwork",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security",
+                  "security-tools",
+                  "spamdetection",
+                  "toolkit",
+                  "yelp-dataset"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -292,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SliceNDice: Mining Suspicious Multi-attribute Entity Groups with Multi-view Graphs (Nilforoshan & Shah, 2019).",
+                "homepage": "http://hamedn.com",
                 "id": 201339886,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-06T21:35:42Z",
+                "open_issues": 4,
                 "owner": "hamedn",
                 "repo": "SliceNDice",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -315,12 +412,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Deep Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 223415751,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-20T21:39:08Z",
+                "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "anomaly-detection",
+                  "datamining",
+                  "datascience",
+                  "dblp-dataset",
+                  "financial-engineering",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "graphneuralnetwork",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security",
+                  "security-tools",
+                  "spamdetection",
+                  "toolkit",
+                  "yelp-dataset"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -338,12 +461,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Deep Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 223415751,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-20T21:39:08Z",
+                "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "anomaly-detection",
+                  "datamining",
+                  "datascience",
+                  "dblp-dataset",
+                  "financial-engineering",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "graphneuralnetwork",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security",
+                  "security-tools",
+                  "spamdetection",
+                  "toolkit",
+                  "yelp-dataset"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -361,12 +510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 137938934,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-05-24T20:30:10Z",
+                "open_issues": 0,
                 "owner": "PanpanZheng",
                 "repo": "SAFE",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -384,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OCAN: One-Class Adversarial Nets for Fraud Detection",
+                "homepage": null,
                 "id": 147039525,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-09-12T21:54:28Z",
+                "open_issues": 0,
                 "owner": "ILoveAI2019",
                 "repo": "OCAN",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -407,12 +566,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Deep Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 223415751,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-20T21:39:08Z",
+                "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "anomaly-detection",
+                  "datamining",
+                  "datascience",
+                  "dblp-dataset",
+                  "financial-engineering",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "graphneuralnetwork",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security",
+                  "security-tools",
+                  "spamdetection",
+                  "toolkit",
+                  "yelp-dataset"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -430,12 +615,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Deep Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 223415751,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-20T21:39:08Z",
+                "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "anomaly-detection",
+                  "datamining",
+                  "datascience",
+                  "dblp-dataset",
+                  "financial-engineering",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "graphneuralnetwork",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security",
+                  "security-tools",
+                  "spamdetection",
+                  "toolkit",
+                  "yelp-dataset"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -453,12 +664,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical Dense Subtensor Detection in Tensors",
+                "homepage": null,
                 "id": 192287379,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-30T03:24:31Z",
+                "open_issues": 0,
                 "owner": "wenchieh",
                 "repo": "catchcore",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "algorithm",
+                  "anomaly-detection",
+                  "dense-subtensor",
+                  "hierarchical-structure",
+                  "tensor-mining"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -476,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 192071597,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-25T05:38:07Z",
+                "open_issues": 3,
                 "owner": "LCS2-IIITD",
                 "repo": "DeFrauder",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -499,12 +726,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Deep Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 223415751,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-20T21:39:08Z",
+                "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "anomaly-detection",
+                  "datamining",
+                  "datascience",
+                  "dblp-dataset",
+                  "financial-engineering",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "graphneuralnetwork",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security",
+                  "security-tools",
+                  "spamdetection",
+                  "toolkit",
+                  "yelp-dataset"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -522,12 +775,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Deep Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 223415751,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-20T21:39:08Z",
+                "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "anomaly-detection",
+                  "datamining",
+                  "datascience",
+                  "dblp-dataset",
+                  "financial-engineering",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph",
+                  "graph-algorithms",
+                  "graph-convolutional-networks",
+                  "graph-neural-networks",
+                  "graphneuralnetwork",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security",
+                  "security-tools",
+                  "spamdetection",
+                  "toolkit",
+                  "yelp-dataset"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -551,12 +830,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Unsupervised Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 268647110,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-18T04:54:53Z",
+                "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "anomaly-detection",
+                  "data-science",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph-algorithms",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security-tools",
+                  "spam-detection",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -574,12 +870,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Unsupervised Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 268647110,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-18T04:54:53Z",
+                "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "anomaly-detection",
+                  "data-science",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph-algorithms",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security-tools",
+                  "spam-detection",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -603,12 +916,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Unsupervised Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 268647110,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-18T04:54:53Z",
+                "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "anomaly-detection",
+                  "data-science",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph-algorithms",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security-tools",
+                  "spam-detection",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -632,12 +962,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Unsupervised Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 268647110,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-18T04:54:53Z",
+                "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "anomaly-detection",
+                  "data-science",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph-algorithms",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security-tools",
+                  "spam-detection",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -661,12 +1008,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Unsupervised Graph-based Toolbox for Fraud Detection",
+                "homepage": null,
                 "id": 268647110,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-18T04:54:53Z",
+                "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "anomaly-detection",
+                  "data-science",
+                  "fraud-detection",
+                  "fraud-prevention",
+                  "graph-algorithms",
+                  "machine-learning",
+                  "opensource",
+                  "outlier-detection",
+                  "security-tools",
+                  "spam-detection",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
             }
@@ -685,12 +1049,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of data mining papers about fraud detection.",
+            "homepage": null,
             "id": 188821801,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T12:28:59Z",
+            "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1827
+            "stars": 1827,
+            "topics": [
+              "churn",
+              "classification",
+              "classifier",
+              "credit-card-fraud",
+              "credit-card-fraud-detection",
+              "credit-card-validation",
+              "credit-scoring",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "fraud-checker",
+              "fraud-detection",
+              "fraud-explorer",
+              "fraud-management",
+              "fraud-prevention",
+              "gradient-boosting",
+              "graph-classification",
+              "link-prediction",
+              "logistic-regression",
+              "random-forest"
+            ]
           },
           "first_seen": "2026-08-28T19:35:11.048Z"
         }
@@ -699,15 +1089,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:35:11.048Z",
+    "last_updated": "2026-08-29T04:28:14.403Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of data mining papers about fraud detection.",
+      "homepage": null,
       "id": 188821801,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-01-05T12:28:59Z",
+      "open_issues": 2,
       "owner": "benedekrozemberczki",
       "repo": "awesome-fraud-detection-papers",
-      "stars": 1827
+      "stars": 1827,
+      "topics": [
+        "churn",
+        "classification",
+        "classifier",
+        "credit-card-fraud",
+        "credit-card-fraud-detection",
+        "credit-card-validation",
+        "credit-scoring",
+        "data-mining",
+        "data-science",
+        "deep-learning",
+        "fraud-checker",
+        "fraud-detection",
+        "fraud-explorer",
+        "fraud-management",
+        "fraud-prevention",
+        "gradient-boosting",
+        "graph-classification",
+        "link-prediction",
+        "logistic-regression",
+        "random-forest"
+      ]
     },
     "original_repository_sha": "2d0ebae3d749db3343535ab953fa66949af8841f",
     "enhanced_repository": "enhansome/enhansome-fraud-detection-papers",
