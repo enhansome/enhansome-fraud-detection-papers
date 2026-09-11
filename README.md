@@ -1,6 +1,6 @@
 # Awesome Fraud Detection Research Papers. with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,688 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,006 | 🐛 106 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-fraud-detection-papers.svg)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/archive/master.zip) ⭐ 1,831 | 🐛 2 | 🌐 Python | 📅 2026-01-05
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-fraud-detection-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -195,7 +195,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://doi.org/10.1109/TKDE.2023.3272396)
 
 * **Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI 2023)**
-  * [\[Code\]](https://github.com/finint/antifraud) ⭐ 344 | 🐛 2 | 🌐 Python | 📅 2025-06-05
+  * [\[Code\]](https://github.com/finint/antifraud) ⭐ 345 | 🐛 2 | 🌐 Python | 📅 2025-06-05
   * Sheng Xiang, Mingzhi Zhu, Dawei Cheng, Enxia Li, Ruihui Zhao, Yi Ouyang, Ling Chen, Yefeng Zheng
   * [\[Paper\]](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf)
 
@@ -907,4 +907,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

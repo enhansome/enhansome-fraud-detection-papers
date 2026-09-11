@@ -86,7 +86,7 @@
                 "open_issues": 2,
                 "owner": "AI4Risk",
                 "repo": "antifraud",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
@@ -1089,7 +1089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:22:03.767Z",
+    "last_updated": "2026-09-11T12:20:48.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
