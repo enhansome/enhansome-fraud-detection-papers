@@ -338,7 +338,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -421,7 +421,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -470,7 +470,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -575,7 +575,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -624,7 +624,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -735,7 +735,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -784,7 +784,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -1089,7 +1089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:03:15.156Z",
+    "last_updated": "2026-09-20T12:36:59.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
