@@ -219,7 +219,7 @@
                 "open_issues": 4,
                 "owner": "zhao-tong",
                 "repo": "Graph-Anomaly-Loss",
-                "stars": 42,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
@@ -1058,7 +1058,7 @@
             "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1834,
+            "stars": 1835,
             "topics": [
               "churn",
               "classification",
@@ -1089,7 +1089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:32:01.709Z",
+    "last_updated": "2026-09-22T12:49:21.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
@@ -1101,7 +1101,7 @@
       "open_issues": 2,
       "owner": "benedekrozemberczki",
       "repo": "awesome-fraud-detection-papers",
-      "stars": 1834,
+      "stars": 1835,
       "topics": [
         "churn",
         "classification",
