@@ -179,7 +179,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2022-10-11T11:15:56Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "YingtongDou",
                 "repo": "CARE-GNN",
                 "stars": 317,
@@ -310,7 +310,7 @@
                 "open_issues": 0,
                 "owner": "Roytsai27",
                 "repo": "Dual-Attentive-Tree-aware-Embedding",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
@@ -338,7 +338,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 759,
+                "stars": 761,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -421,7 +421,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 759,
+                "stars": 761,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -470,7 +470,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 759,
+                "stars": 761,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -575,7 +575,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 759,
+                "stars": 761,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -624,7 +624,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 759,
+                "stars": 761,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -735,7 +735,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 759,
+                "stars": 761,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -784,7 +784,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 759,
+                "stars": 761,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -1058,7 +1058,7 @@
             "open_issues": 2,
             "owner": "benedekrozemberczki",
             "repo": "awesome-fraud-detection-papers",
-            "stars": 1835,
+            "stars": 1836,
             "topics": [
               "churn",
               "classification",
@@ -1089,7 +1089,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:20:26.401Z",
+    "last_updated": "2026-09-30T14:13:40.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
@@ -1101,7 +1101,7 @@
       "open_issues": 2,
       "owner": "benedekrozemberczki",
       "repo": "awesome-fraud-detection-papers",
-      "stars": 1835,
+      "stars": 1836,
       "topics": [
         "churn",
         "classification",
