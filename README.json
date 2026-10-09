@@ -182,7 +182,7 @@
                 "open_issues": 2,
                 "owner": "YingtongDou",
                 "repo": "CARE-GNN",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "datamining",
                   "deep-learning",
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:55:38.549Z",
+    "last_updated": "2026-10-09T14:39:37.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",

@@ -1,6 +1,6 @@
 # Awesome Fraud Detection Research Papers. with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,406 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,612 | 🐛 106 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![repo size](https://img.shields.io/github/repo-size/benedekrozemberczki/awesome-fraud-detection-papers.svg)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers/archive/master.zip)
 ![License](https://img.shields.io/github/license/benedekrozemberczki/awesome-fraud-detection-papers.svg?color=blue) [![benedekrozemberczki](https://img.shields.io/twitter/follow/benrozemberczki?style=social\&logo=twitter)](https://twitter.com/intent/follow?screen_name=benrozemberczki)
@@ -332,7 +332,7 @@ Similar collections about [graph classification](https://github.com/benedekrozem
   * [\[Paper\]](https://shenghua-liu.github.io/papers/aaai2020cr-flowscope.pdf)
 
 * **Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (CIKM 2020)**
-  * [\[Code\]](https://github.com/YingtongDou/CARE-GNN) ⭐ 317 | 🐛 2 | 🌐 Python | 📅 2022-10-11
+  * [\[Code\]](https://github.com/YingtongDou/CARE-GNN) ⭐ 318 | 🐛 2 | 🌐 Python | 📅 2022-10-11
   * Yingtong Dou, Zhiwei Liu, Li Sun, Yutong Deng, Hao Peng, Philip S. Yu
   * [\[Paper\]](https://arxiv.org/abs/2008.08692)
 
@@ -907,4 +907,4 @@ Similar collections about [graph classification](https://github.com/benedekrozem
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
