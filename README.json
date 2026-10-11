@@ -86,7 +86,7 @@
                 "open_issues": 0,
                 "owner": "AI4Risk",
                 "repo": "antifraud",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
@@ -219,7 +219,7 @@
                 "open_issues": 4,
                 "owner": "zhao-tong",
                 "repo": "Graph-Anomaly-Loss",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:57:57.445Z",
+    "last_updated": "2026-10-11T14:21:46.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
