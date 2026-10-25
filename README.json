@@ -86,7 +86,7 @@
                 "open_issues": 0,
                 "owner": "AI4Risk",
                 "repo": "antifraud",
-                "stars": 349,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
@@ -338,7 +338,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -421,7 +421,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -470,7 +470,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -575,7 +575,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -624,7 +624,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -735,7 +735,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -784,7 +784,7 @@
                 "open_issues": 1,
                 "owner": "safe-graph",
                 "repo": "DGFraud",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "anomaly-detection",
                   "datamining",
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:12:58.229Z",
+    "last_updated": "2026-10-25T12:45:33.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
