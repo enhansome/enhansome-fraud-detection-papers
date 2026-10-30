@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:38:31.611Z",
+    "last_updated": "2026-10-30T14:30:22.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
@@ -1053,7 +1053,7 @@
       "open_issues": 2,
       "owner": "benedekrozemberczki",
       "repo": "awesome-fraud-detection-papers",
-      "stars": 1840,
+      "stars": 1841,
       "topics": [
         "churn",
         "classification",
