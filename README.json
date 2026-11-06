@@ -21,7 +21,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-03-26T11:52:01Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "GraphBerry",
                 "repo": "DiG-In-GNN",
                 "stars": 26,
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T15:48:06.561Z",
+    "last_updated": "2026-11-06T15:22:50.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
