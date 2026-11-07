@@ -839,7 +839,7 @@
                 "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -879,7 +879,7 @@
                 "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -925,7 +925,7 @@
                 "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -971,7 +971,7 @@
                 "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1017,7 +1017,7 @@
                 "open_issues": 3,
                 "owner": "safe-graph",
                 "repo": "UGFraud",
-                "stars": 133,
+                "stars": 134,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T15:22:50.772Z",
+    "last_updated": "2026-11-07T14:20:12.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
