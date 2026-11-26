@@ -120,7 +120,7 @@
                 "open_issues": 1,
                 "owner": "Seondong",
                 "repo": "Customs-Fraud-Detection",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:35:11.048Z"
@@ -1041,7 +1041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:10:24.991Z",
+    "last_updated": "2026-11-26T17:53:15.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of data mining papers about fraud detection.",
@@ -1050,7 +1050,7 @@
       "language": "Python",
       "license": "CC0-1.0",
       "last_commit": "2026-01-05T12:28:59Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "benedekrozemberczki",
       "repo": "awesome-fraud-detection-papers",
       "stars": 1844,
